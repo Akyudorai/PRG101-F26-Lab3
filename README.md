@@ -88,6 +88,11 @@ element = matrix[1][2]  # Output: 6
   
 ## lab3g.py
 Write a program that reads values from standard input from user(using input function), stores the inputted values in a list, multiplies each element by 10, and prints the result in reverse order. 
+- Create an empty list
+- Create a while loop that ends when your list size reaches 6
+- Add numbers to your list using input
+- Multiply the numbers by 10
+- Print out the list in reverse order
 
 ## Lab 3 Sign-Off
 - Submit the screenshots of each individual script, the screenshot must show your scripts and command line interface and output.
