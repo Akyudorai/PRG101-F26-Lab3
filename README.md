@@ -1,8 +1,8 @@
 # PRG101-Lab3
 ### Submission Details
 
-In this lab, you will create four simple scripts. Write the scripts in GitHub codespaces. 
-Please note that you will work on the lab during class hours and show your progress to the professor to receive the marks for the lab. If not completed, you can continue working on lab at home and submit a PDF file containing all screenshots showing your code and output in Blackboard before the due date.
+In this lab, you will create four simple scripts. Write the scripts in GitHub codespaces or Visual Studio Code. 
+Please submit a PDF file containing all screenshots showing your code and output in Blackboard before the due date.
 Also carefully read the lab submission instructions given at the end of this file.
 
 ### Lab Objectives
@@ -29,7 +29,6 @@ Write a program that reverses the sequence of elements in a list.
 then the list is changed to
 
 11 9 4 7 9 16 9 4 1
-
 
 
 ### lab3c.py
