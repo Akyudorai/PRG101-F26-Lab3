@@ -10,10 +10,9 @@ Also carefully read the lab submission instructions given at the end of this fil
 - To collect elements using lists
 - To use the for loop for traversing lists
 - To learn common functions and methods for processing lists
-- To use lists with functions
 - To work with tables of data- 
 
-## INVESTIGATION : USING LISTS, LISTS OPERATIONS, LIST in FUNCTIONS, TABLE
+## INVESTIGATION : USING LISTS, LISTS OPERATIONS, TABLE
 A list in Python is an ordered collection of items that can be of different types. Lists are mutable, meaning you can change their content after creation.
 In this Part you will be creating lists and performing basic operations on lists using list methods and built-in functions.
 Lists are used to store data elements. Usually lists contain similar kind of data, but python does not restrict you from adding values of different data types in a list.
@@ -23,7 +22,7 @@ Lists are used to store data elements. Usually lists contain similar kind of dat
 Write a Python program that generates a sequence of 20 random values between 0 and 99, stores them in a list, prints the sequence, sorts it, and prints the sorted sequence. Use the list sort method.
 
 ### lab3b.py
-Write a function that reverses the sequence of elements in a list. For example, if you call the function with the list
+Write a program that reverses the sequence of elements in a list. 
 
 1 4 9 16 9 7 4 9 11
 
