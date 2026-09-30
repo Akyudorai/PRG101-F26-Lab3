@@ -80,16 +80,12 @@ matrix = [
 element = matrix[1][2]  # Output: 6
 ```
 - Fill in the required fields in the comment section.
-- Copy the above code in the file `lab3i.py`.
+- Copy the above code in the file `lab3f.py`.
 - Print the element `5` from this list. Specify the correct row and column.
 - Print the element `2` from this list.
 - Print the element `9` from this list.
-- Use a for loop and print individual lists from this matrix. You need a single for loop. The output should be like this:
-  ```python
-  [1,2,3]
-  [4,5,6]
-  [7,8,9]
-  ```
+- Use a nested for loop and print all the individual values from this matrix on separate lines. 
+  
 ## lab3g.py
 Write a program that reads values from standard input from user(using input function), stores the inputted values in a list, multiplies each element by 10, and prints the result in reverse order. 
 
